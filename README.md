@@ -1,46 +1,48 @@
 # 📊 BI Portfolio – q-nawwarah
 
-Selamat datang ke portfolio Business Intelligence saya!  
-Di sini saya simpan semua projek, mini-project, dashboard, dan pembelajaran saya sepanjang perjalanan menjadi Business Intelligence Analyst.
+Welcome to my Business Intelligence portfolio!  
+This repository documents my learning journey to become a Business Intelligence Analyst.  
+It contains mini-projects, dashboards, SQL case studies, and niche BI projects showcasing my skills in data analysis, visualization, and reporting.
 
 ---
 
-## 🗂 Projek & Mini-Project
+## 🗂 Projects & Mini-Projects
 
 ### ✅ Mini-Project 1 – KPI Dashboard
-**Tarikh siap:** 21 Sept 2025  
+**Completion Date:** 21 Sept 2025  
 **Tools:** Power BI  
-**Hasil:** Dashboard ringkas menunjukkan Sales vs Target, Top Products, KPI Card  
-[📷 Screenshot](link-nanti)
+**Outcome:** Simple dashboard displaying Sales vs Target, Top Products, and KPI Cards  
+[📷 Screenshot](link-will-be-added)
 
 ---
 
 ### 📊 Universal Projects (Week 9–13)
-| Projek | Tarikh Sasaran | Status |
-|-------|---------------|-------|
+| Project | Target Date | Status |
+|--------|-------------|--------|
 | Sales Performance Dashboard | 23 Nov 2025 | ⏳ |
-| SQL Case Study | 7 Dis 2025 | ⏳ |
-| Executive KPI Dashboard | 15 Dis 2025 | ⏳ |
+| SQL Case Study | 7 Dec 2025 | ⏳ |
+| Executive KPI Dashboard | 15 Dec 2025 | ⏳ |
 
 ---
 
 ### 🌱 Niche Projects (Week 14–16)
-| Projek | Tarikh Sasaran | Status |
-|-------|---------------|-------|
-| Occupational Safety Dashboard | 22 Dis 2025 | ⏳ |
-| Healthcare Utilization Report | 29 Dis 2025 | ⏳ |
-| Environmental Impact Analysis | 31 Dis 2025 | ⏳ |
+| Project | Target Date | Status |
+|--------|-------------|--------|
+| Occupational Safety Dashboard | 22 Dec 2025 | ⏳ |
+| Healthcare Utilization Report | 29 Dec 2025 | ⏳ |
+| Environmental Impact Analysis | 31 Dec 2025 | ⏳ |
 
 ---
 
-## 🧰 Tools yang Digunakan
-- **Power BI** – Dashboard & Reporting  
-- **Tableau Public** – Data Visualization & Portfolio Sharing  
-- **SQL (BigQuery, MySQL)** – Data Extraction & Cleaning  
-- **Python (Pandas, Matplotlib)** – Data Wrangling & Exploratory Analysis  
+## 🧰 Tools & Technologies
+- **Power BI** – Dashboard creation and reporting  
+- **Tableau Public** – Interactive data visualization and sharing  
+- **SQL (BigQuery, MySQL)** – Data extraction, cleaning, and transformation  
+- **Python (Pandas, Matplotlib)** – Data wrangling and exploratory analysis  
 
 ---
 
-## 📬 Hubungi Saya
-- **LinkedIn:** [linkedin.com/in/q-nawwarah](https://linkedin.com)
-- **Email:** nawwara.bi@gmail.com
+## 📬 Connect with Me
+- **LinkedIn:** [linkedin.com/in/q-nawwarah](https://linkedin.com) *(to be updated once LinkedIn is ready)*  
+- **Email:** (nawwarah.bi@gmail.com)
+
